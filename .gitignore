@@ -1,0 +1,20 @@
+# MATLAB
+.DS_Store
+*.asv
+*.autosave
+
+# Large datasets - DO NOT upload
+data/aptos/
+data/idrid/
+data/drive/
+data/messidor2/
+
+# Generated results
+results/
+resultss/
+
+# MATLAB model files - temporarily exclude
+models/
+
+# Temporary files
+*.log
